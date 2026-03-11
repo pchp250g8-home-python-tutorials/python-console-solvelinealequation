@@ -8,8 +8,7 @@ The program does the following:
     1. All coefficients are equal to zero. The phrase "Solution - any number" will be displayed on the screen.
     2. The coefficient "a" is zero, but "b" is not. In this case, the message "The equation has no solutions" will be displayed.
     3. In all other cases, the solution calculated using the formula "x=-b/a" will be displayed on the screen. 
-Developed in the PascalABCDotNet integrated environment.
-
+Developed in the Spyder integrated environment (in the Microsoft Visual Studio Code editor).
 
 SolveLinealEqual. Занятия по Python. Алгоритмы. Простой ввод-вывод. Консольное приложение.
 Консольное приложение написанное на языке программирования Python. 
@@ -21,4 +20,4 @@ SolveLinealEqual. Занятия по Python. Алгоритмы. Простой
        1. Все коэффициенты равны нулю. На экран будет выведена фраза на английском языке "Решение - любое число".
        2. Коэффициент "a" равен нулю, а "b" нет. В данном случае будет выдано сообщение "Уравнение не имеет решений".
        3. Во всех остальных случаях на экран будет выведено решение, вычисляемое по формуле "x=-b/a". 
-Разработано в интегрированной среде PascalABCDotNet.
+Разработано в интегрированной среде Spyder (в редакторе Microsoft Visual Studio Code).
