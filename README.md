@@ -1,4 +1,4 @@
-SolveLinealEqual. Python tutorials. Algorithms. Simple Input/Output. Console Application. 
+SolveLinealEqual. Python tutorials. Algorithms. Simple Input/Output. Console Application.
 A console application in the Python programming language. 
 The program does the following:
 1. Asks you to enter the coefficients of the linear equation that needs to be solved.
